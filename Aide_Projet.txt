@@ -1,0 +1,27 @@
+Tutoriel HTML / CSS :
+
+	https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3
+
+Choses intéressantes à faire en html :
+
+	http://www.hongkiat.com/blog/cool-useful-html-tags/
+
+Tutoriel MySQL :
+
+	https://openclassrooms.com/courses/administrez-vos-bases-de-donnees-avec-mysql
+
+Tutoriel Site Web MySQL / PHP : 
+
+	https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql
+
+Gestionnaire de version :
+
+	https://openclassrooms.com/courses/gerez-vos-codes-source-avec-git
+
+FTP (Installation Serveur)
+
+	https://openclassrooms.com/courses/creer-son-serveur-ftp
+
+Dessin UML - Diagramme : 
+
+	https://creately.com/app/?tempID=h165rwt81&login_type=demo#
